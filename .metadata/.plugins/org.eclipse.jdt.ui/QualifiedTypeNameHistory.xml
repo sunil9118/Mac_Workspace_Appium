@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="io.appium.java_client.ios.options.XCUITestOptions"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.ios.IOSDriver"/>
+    <fullyQualifiedTypeName name="java.net.URL"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.service.local.AppiumServiceBuilder"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.service.local.AppiumDriverLocalService"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.BeforeClass"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.JavascriptException"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.JavascriptExecutor"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.remote.RemoteWebElement"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="IOS_Appium_Basic.Base_Class"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.AfterClass"/>
+    <fullyQualifiedTypeName name="dev.failsafe.internal.util.Assert"/>
+    <fullyQualifiedTypeName name="java.time.Duration"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.AppiumBy"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+    <fullyQualifiedTypeName name="org.testng.Assert"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.DeviceRotation"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.android.nativekey.AndroidKey"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.android.nativekey.KeyEvent"/>
+    <fullyQualifiedTypeName name="android_appium_basic.BaseTest"/>
+    <fullyQualifiedTypeName name="POM.FormPage_HomePage"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.support.PageFactory"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.pagefactory.AppiumFieldDecorator"/>
+    <fullyQualifiedTypeName name="Utilities.Android_Util"/>
+    <fullyQualifiedTypeName name="POM.Base_Page"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.pagefactory.AndroidFindBy"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.TouchAction"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="Android.Test.BaseTest"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="POM.ProductCatalog_Page"/>
+</qualifiedTypeNameHistroy>

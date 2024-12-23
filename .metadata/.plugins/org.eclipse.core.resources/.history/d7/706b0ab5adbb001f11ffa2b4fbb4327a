@@ -1,0 +1,22 @@
+package Android.Test;
+
+import org.testng.annotations.Test;
+
+import POM.FormPage_HomePage;
+
+public class BasicTest extends BaseTest{
+	
+	
+	@Test
+	
+	public void formPage() throws InterruptedException {
+		
+		FormPage_HomePage fm = new FormPage_HomePage(driver);
+		
+		fm.setName("Sunil");
+		fm.setGender("female");
+		
+		Thread.sleep(2000);
+	}
+
+}

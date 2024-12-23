@@ -1,0 +1,44 @@
+package POM;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+
+import io.appium.java_client.android.AndroidDriver;
+import io.appium.java_client.pagefactory.AndroidFindBy;
+
+public class ProductCatalog_Page extends Base_Page {
+
+	public ProductCatalog_Page(AndroidDriver driver) {
+		super(driver);
+		// TODO Auto-generated constructor stub
+	}
+
+	@AndroidFindBy(xpath = "//android.widget.TextView[@text='ADD TO CART']")
+	private List<WebElement> addToCart;
+
+	public void AddtoCart(ArrayList items) throws InterruptedException {
+		
+		for(String item : items)
+		
+		for (int i =0; i>items.size(); i++)
+		{
+		
+
+	WebElement itemToCart=	driver.findElement(By.xpath(
+				"//android.widget.TextView[contains(@text,\""+items.get(i)+"\")]/ancestor::android.widget.RelativeLayout/android.widget.LinearLayout//android.widget.TextView[@text='ADD TO CART']"));
+
+		
+		//addToCart.get(0).click();
+
+	}
+
+	public void AddtoCart() {
+
+		addToCart.get(0).click();
+
+	}
+
+}

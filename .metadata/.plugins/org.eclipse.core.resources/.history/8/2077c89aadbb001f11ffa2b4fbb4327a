@@ -1,0 +1,14 @@
+package Android.Test;
+
+import org.testng.annotations.Test;
+
+public class BasicTest extends BaseTest{
+	
+	
+	@Test
+	
+	public void formPage() {
+		
+	}
+
+}
